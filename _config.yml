@@ -1,7 +1,7 @@
 # Setup
 title:               sqlBro
-tagline:             'bro, do you even code?'
-description:         'these aren''t the droids you''re looking for'
+tagline:             'do you even code bro?'
+description:         'stay hungry, stay foolish'
 url:                 https://stitcombe.github.io
 baseurl:             ''
 paginate:            3
@@ -11,7 +11,7 @@ permalink:           pretty
 author:
   name:              Stephen
   url:               https://stitcombe.github.io/about/
-  email:             hello@email.com
+  email:             05_wattage.gyms@icloud.com
 
 # Gems
 plugins:
