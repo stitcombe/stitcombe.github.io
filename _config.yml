@@ -4,7 +4,7 @@ tagline:             'bro, do you even code?'
 description:         'these aren''t the droids you''re looking for'
 url:                 https://stitcombe.github.io
 baseurl:             ''
-paginate:            5
+paginate:            3
 permalink:           pretty
 
 # About/contact
